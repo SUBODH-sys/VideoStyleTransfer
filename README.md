@@ -41,6 +41,7 @@ The DAVIS 2017 dataset includes 150 videos (60 training, 30 validation, 60 testi
 - Speed: Leverages pre-trained VGG19 and lightweight U-Net for fast processing.
 - Precision: Segmentation ensures accurate object styling.
 - Smoothness: Optical flow prevents video flickering.
-- Accessibility: Streamlit app enables non-experts to use the system.
 
-https://github.com/user-attachments/assets/be96ab08-6c09-4df7-89d4-07bddd5bcdcd
+https://github.com/user-attachments/assets/35b235b5-9076-4ba2-88af-f6b06653fa40
+
+
