@@ -1,6 +1,7 @@
 # Artistic Video Style Transfer with Segmentation Guidance
 ## Overview
 This project transforms videos by applying artistic styles (e.g., Monet’s paintings) to specific objects, such as a bear, while preserving the background and ensuring smooth transitions. It combines a U-Net model for object segmentation, a VGG19-based style transfer pipeline, and a Streamlit app for user interaction. Inspired by StyTR-2 ([StyTR-2 Paper](https://doi.org/10.48550/arXiv.2105.14576)) and InST ([InST Paper](https://doi.org/10.48550/arXiv.2211.13203)), it extends image-based style transfer to videos with object-specific styling and temporal consistency, using the DAVIS 2017 dataset ([DAVIS 2017](https://data.vision.ee.ethz.ch/csergi/share/davis/DAVIS-2017-trainval-480p.zip).
+![output](https://github.com/user-attachments/assets/ee8555d1-9917-489b-98eb-18ff7a3c70b5)
 ## Features
 1. Object-Specific Styling: Applies styles only to segmented objects (e.g., a bear), preserving the background.
 2. Temporal Consistency: Uses optical flow to ensure smooth video transitions, avoiding flickering.
