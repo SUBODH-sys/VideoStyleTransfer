@@ -42,3 +42,5 @@ The DAVIS 2017 dataset includes 150 videos (60 training, 30 validation, 60 testi
 - Precision: Segmentation ensures accurate object styling.
 - Smoothness: Optical flow prevents video flickering.
 - Accessibility: Streamlit app enables non-experts to use the system.
+
+https://github.com/user-attachments/assets/be96ab08-6c09-4df7-89d4-07bddd5bcdcd
